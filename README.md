@@ -6,7 +6,7 @@
 #### By _**{David Butler}**_
 
 ## Description
-#### Create a website that uses a method to replace vowels in a string with the dash symbol "-" to create a word puzzle to solve. Hide the original string when you show the resulting word puzzle, so that another person can try and guess it.
+#### Create a website that uses a method to replace vowels in a string with the dash symbol "-" to create a word puzzle to solve. Hide the original string when you show the resulting word puzzle, so that another person can try and guess it..
 
 ## Setup/Installation Requirements
 * Make a new directory to clone the repo in.
