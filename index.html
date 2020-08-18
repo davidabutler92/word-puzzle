@@ -8,6 +8,23 @@
     <title></title>
   </head>
   <body>
-    
+    <div class="container">
+      <div class="jumbotron">
+        <form id="puzzle-form">
+          <div class="form-group">
+            <label for="sentence">Enter a sentence below:</label>
+            <input type="text" name="sentence" id="sentence" class="form-control" required>
+          </div>
+          <button class="submit" class="btn btn-primary">Submit</button>
+        </form>
+      </div>
+    </div>
+    <div class="container" id="output-container">
+      <div class="jumbotron">
+        <div>
+          <h3><span id="output-sentence"></span></h3>
+        </div>
+      </div>
+    </div>
   </body>
 </html>
